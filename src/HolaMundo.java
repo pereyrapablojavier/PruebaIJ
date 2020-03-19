@@ -13,6 +13,6 @@ public class HolaMundo {
 
 
     public static void miToString() {
-        System.out.println(String.format("Este es mi mensaje: %s", "Hola Mundo"));
+        System.out.println(String.format("Este es mi mensaje: %s", "Hola Mundo en un branch"));
     }
 }
